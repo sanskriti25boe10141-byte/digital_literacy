@@ -1,9 +1,5 @@
-Name: Sanskriti Kumari  
-Course: B.Tech Bioengineering  
-University: VIT Bhopal  
+I created my digital presence by setting up profiles on GitHub, LinkedIn and kaggle. These platforms are important for building skills and growing in an engineering career.
 
-This portfolio showcases my work on digital literacy. I created an infographic on "Digital Literacy Awareness" using Canva.
+GitHub is used to manage and share my projects and coding work. LinkedIn helps me connect with professionals and explore career opportunities. Kaggle allows me to work with datasets and improve my problem-solving skills.
 
-Through this project, I learned about digital tools, online safety, and effective communication. I also gained basic experience in using GitHub.
-
-This portfolio reflects my understanding of responsible and safe use of digital technology.
+Through these platforms, I aim to showcase my work, learn continuously, and build a strong professional profile for the future.
