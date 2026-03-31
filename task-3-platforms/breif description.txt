@@ -1,11 +1,11 @@
-For Task FOR task 3, I explored platforms that help with skill development and digital collaboration.
+For Task 3, I explored different digital platforms that help in skill development and collaboration.
 
-I used HackerRank to practice coding. I solved problems using C++, which helped me improve my logical thinking and understand how coding platforms work.
+I practiced basic coding using Python, which helped me understand programming logic and problem-solving. It gave me confidence in writing simple programs and improving my technical skills.
 
-For the second part, I created a quiz using Google Forms titled "Digital Literacy Awareness Quiz". The quiz included five questions with both multiple-choice and descriptive answers. It focused on topics like phishing and safe internet usage.
+For the second part, I created a quiz using Google Forms titled "Digital Literacy Awareness Quiz". The quiz included questions on topics like phishing, safe browsing, and strong passwords.
 
-I also used Google Sheets to view and manage the responses collected from the form. This helped me understand how data can be organized and analyzed.
+I also filled the form and used Google Sheets to view and analyze the responses. This helped me understand how data is collected and organized.
 
-These tools are very useful for my studies as a B.Tech student. HackerRank helps me prepare for technical interviews, while Google Forms and Sheets are useful for data collection and teamwork.
+These platforms are very useful for my studies as a B.Tech student. They help in improving coding skills, digital awareness, and collaboration.
 
-Through this task, I learned the importance of digital collaboration and skill development. I will continue using these platforms to improve my technical and professional skills.
+Through this task, I learned how digital tools can be used effectively for learning and will continue to use them to improve my skills.
